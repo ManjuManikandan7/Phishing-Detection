@@ -1,0 +1,11 @@
+message,label,source
+your subscription renews next month unless you cancel in settings.,0,service
+team dinner at 7pm friday — reply if you are coming.,0,personal
+your package was delivered to the front porch. see you there.,0,shipping_var
+amazon: your order has shipped with tracking in app.,0,retail
+weather alert: light rain expected this evening.,0,news
+apple id locked. unlock now http://apple-id-unlock.support-team.ru/,1,brand_spoof
+your game id won legendary skin. confirm account http://legend-skin-event.click/,1,gaming_phish
+you received 5000 bonus coins! tap http://bit.ly/game-coins-free to redeem,1,gaming_phish
+game patch notes: bug fixes and balance changes.,0,gaming_legit
+you have (1) pending reward. expires tonight http://reward-center-secure.online/,1,urgency

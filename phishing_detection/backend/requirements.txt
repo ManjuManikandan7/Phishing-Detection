@@ -1,0 +1,20 @@
+# Python 3.10+ recommended
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+python-multipart==0.0.20
+
+# ML / data
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+tensorflow==2.18.0
+transformers==4.47.0
+torch==2.5.1
+datasets==3.2.0
+accelerate==0.34.2
+
+# Testing
+pytest==8.3.4
+httpx==0.28.1
